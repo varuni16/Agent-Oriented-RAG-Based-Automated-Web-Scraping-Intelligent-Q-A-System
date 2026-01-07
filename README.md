@@ -8,7 +8,7 @@ This project demonstrates an agent-oriented RAG workflow built on web-scraped da
 
 The system functions as a single intelligent agent that coordinates multiple tasks such as web scraping, text processing, retrieval, and answer generation to deliver grounded and context-aware responses.
 
-Although explicit agent APIs are not used, the architecture follows agent-like orchestration, where each component acts as a specialized capability executed based on user intent.
+The architecture follows agent-like orchestration, where each component acts as a specialized capability executed based on user intent.
 
 ## Why an Agent-Based Approach?
 
